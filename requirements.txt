@@ -1,0 +1,9 @@
+# life-chart-engine — direct dependencies.
+# Pinned to versions verified against py-iztro on CPython 3.12.
+# Transitive deps (pythonmonkey, pydantic, aiohttp, ...) resolve automatically.
+#
+# NOTE: requires CPython 3.12. py-iztro's native deps (pythonmonkey /
+# pydantic-core) have no wheels for 3.13+/3.14 and fail to build. Use `setup.sh`.
+
+pyswisseph==2.10.3.2
+py-iztro==0.1.5
