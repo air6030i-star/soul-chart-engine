@@ -1,3 +1,7 @@
+**Forked from** [zhenheco/life-chart-engine](https://github.com/zhenheco/life-chart-engine) · Licensed under **AGPL-3.0** · Soul Universe 排盤引擎 — 三系統交叉驗證計算層
+
+---
+
 > 🌐 **English** · [繁體中文](./README.zh-TW.md) · [简体中文](./README.zh-CN.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md) · [Español](./README.es.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [Português](./README.pt.md) · [Русский](./README.ru.md) · [العربية](./README.ar.md) · [हिन्दी](./README.hi.md) · [Bahasa Indonesia](./README.id.md) · [Tiếng Việt](./README.vi.md) · [ไทย](./README.th.md) · [Italiano](./README.it.md) · [Türkçe](./README.tr.md) · [Nederlands](./README.nl.md) · [Polski](./README.pl.md)
 
 # life-chart-engine
