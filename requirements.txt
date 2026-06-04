@@ -1,14 +1,7 @@
-# Soul Chart Engine — Render 部署用依賴
-# 此檔取代原 engine 的 requirements.txt（push 到 GitHub 時覆蓋原檔）
-#
-# Render 安裝指令：pip install -r requirements.txt
-# Python 版本：3.12（py-iztro 限定）
+# Soul Chart Engine - Render deployment requirements
+# v1.1 (2026-06-04): removed pydantic pin to avoid conflict with py-iztro
 
-# === 原 engine 核心依賴 ===
 pyswisseph==2.10.3.2
 py-iztro==0.1.5
-
-# === HTTP server 依賴（server.py 用）===
-fastapi==0.115.0
-uvicorn[standard]==0.32.0
-pydantic==2.9.2
+fastapi
+uvicorn[standard]
