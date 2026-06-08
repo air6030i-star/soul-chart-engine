@@ -1,7 +1,11 @@
 # Soul Chart Engine - Render deployment requirements
-# v1.1 (2026-06-04): removed pydantic pin to avoid conflict with py-iztro
+# v1.2 (2026-06-08): added playwright + httpx for hd_report endpoint
 
 pyswisseph==2.10.3.2
 py-iztro==0.1.5
 fastapi
 uvicorn[standard]
+
+# 人類圖報告 PDF 生成
+playwright
+httpx
